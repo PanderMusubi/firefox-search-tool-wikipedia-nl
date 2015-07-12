@@ -9,7 +9,7 @@
         <os:Param name="action" value="opensearch"/>
         <os:Param name="search" value="{searchTerms}"/>
     </os:Url>
-    <os:Url method="GET" resultDomain="nl.wikipedia.org" template="https://nl.wikipedia.org/w/index.php http://nl.wikipedia.org/wiki/Speciaal:Zoeken" type="text/html">
+    <os:Url method="GET" resultDomain="nl.wikipedia.org" template="https://nl.wikipedia.org/w/index.php" type="text/html">
         <os:Param name="title" value="Speciaal:Zoeken"/>
         <os:Param name="search" value="{searchTerms}"/>
         <os:Param name="sourceid" value="Mozilla-search"/>

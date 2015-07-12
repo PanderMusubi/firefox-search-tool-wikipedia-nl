@@ -1,4 +1,5 @@
-<OpenSearchDescription>
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns:moz="http://www.mozilla.org/2006/browser/search/" xmlns="http://a9.com/-/spec/opensearch/1.1/">
     <ShortName>Wikipedia (nl)</ShortName>
     <Description>Search in Dutch (nl) Wikipedia, the free encyclopedia</Description>
     <LongName>Firefox add-on to search Wikipedia, the free encyclopedia, in Dutch (nl)</LongName>

@@ -13,7 +13,7 @@ https://nl.wikipedia.org/w/api.php?action=help&modules=opensearch
 
 ### PNG file W
 
-The folling file was used for creating the icons. It was enlarged to 1280x1280, cropped to 1150x1150 and rescaled to 64x64 and 32x32 PNG and 16x16 ICO.
+The folling file was used for creating the icons. It was enlarged to 1280x1280, cropped to 1150x1150 and rescaled to 64x64 PNG and 16x16 ICO.
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wikipedia-W-visual-balanced.svg/1280px-Wikipedia-W-visual-balanced.svg.png
 

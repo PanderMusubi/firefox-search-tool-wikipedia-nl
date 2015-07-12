@@ -47,10 +47,19 @@ https://nl.wikipedia.org/static/images/project-logos/nlwiki.png
 ![PNG logo NL](https://nl.wikipedia.org/static/images/project-logos/nlwiki.png)
 
 
-### PNG homepage NL
+### PNG start page NL
 
 The following file was used as screenshot for the add-on site.
 
 https://upload.wikimedia.org/wikipedia/commons/d/df/WikiPedia.png
 
-![PNG homepage NL](https://upload.wikimedia.org/wikipedia/commons/d/df/WikiPedia.png)
+![PNG start page NL](https://upload.wikimedia.org/wikipedia/commons/d/df/WikiPedia.png)
+
+
+### PNG homepage NL
+
+The following file was used as screenshot for the add-on site.
+
+wikipedia-nl-homepage.png
+
+![PNG homepage NL](wikipedia-nl-homepage.png)
